@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="day1">
+        <item>How</item>
+        <item>is</item>
+        <item>a</item>
+        <item>Rise</item>
+        <item>Sun</item>
+        <item>How you doing?</item>
+
+    </string-array>
+
+</resources>
