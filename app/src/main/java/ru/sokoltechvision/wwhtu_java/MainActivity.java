@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
               //  date.compareTo()
                 //сраный алгоритм времени
-                // _DAY1();
+                 _DAY1();
             }
         });
     }
