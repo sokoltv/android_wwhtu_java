@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="night">
-        <item>Hosw</item>
-        <item>iss</item>
-        <item>as</item>
-        <item>Risse</item>
-        <item>Susn</item>
-        <item>How you sdoing?</item>
+        <item>Ночь1</item>
+        <item>Ночь2</item>
+        <item>Ночь3</item>
+        <item>Ночь4</item>
+        <item>Ночь5</item>
+        <item>Ночь6</item>
     </string-array>
 </resources>

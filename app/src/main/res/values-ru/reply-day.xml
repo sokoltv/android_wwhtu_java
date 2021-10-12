@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="day1">
-        <item>How</item>
-        <item>is</item>
-        <item>a</item>
-        <item>Rise</item>
-        <item>Sun</item>
-        <item>How you doing?</item>
+        <item>День1</item>
+        <item>День2</item>
+        <item>День3</item>
+        <item>День4</item>
+        <item>День5</item>
+        <item>День6</item>
 
     </string-array>
 

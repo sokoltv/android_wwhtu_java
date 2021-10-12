@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="overnight">
-        <item>Hosw</item>
-        <item>iss</item>
-        <item>as</item>
-        <item>Risse</item>
-        <item>Susn</item>
-        <item>How you sdoing?</item>
+        <item>Over1</item>
+        <item>Over2</item>
+        <item>Over3</item>
+        <item>Over4</item>
+        <item>Over5</item>
+        <item>Over6</item>
     </string-array>
 </resources>
